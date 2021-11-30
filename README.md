@@ -1,0 +1,3 @@
+- Hi, I’m @GitSteve654
+- I’m interested in web programming and javascript
+- I’m currently learning react and typescript
